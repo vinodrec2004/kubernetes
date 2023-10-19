@@ -5,6 +5,6 @@ metadata:
     backstage.io/kubernetes-id: kubernetes-component
   name: kubernetes-component
 spec:
-  lifecycle: production
+  lifecycle: experimental
   owner: user:guest
   type: service
